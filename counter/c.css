@@ -1,0 +1,13 @@
+#p1{
+ display: block;   
+ text-align: center;
+ font-size: 100px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#d1{
+    text-align: center;
+}
+.button{
+    background-color: red;
+    font-size: medium;
+}
